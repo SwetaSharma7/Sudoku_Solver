@@ -8,3 +8,12 @@ The backtracking algorithm systematically explores possible number placements in
 The solver provides an interactive experience, displaying each step of the backtracking process, highlighting cells that are being considered, and allowing users to visualize the solution as it unfolds. Once a valid solution is found, it is displayed on the interface, completing the Sudoku puzzle.
 
 This implementation showcases the power of using web technologies to create an engaging and educational tool for solving Sudoku puzzles, while also demonstrating the effectiveness of the backtracking algorithm for solving complex logical puzzles.
+
+Sudoku-Solver | Backtracking, HTML, CSS, Javascript |
+
+• Orchestrated a backtracking algorithm to solve Sudoku puzzles, achieving an average time complexity of O(9N ×N ) and
+space complexity of O(N × N ), where N is the number of cells in the Sudoku grid.
+
+◦ Logic-based puzzle game that involves filling a 9X9 grid with digits 1 to 9.
+
+◦ The program can solve Sudoku puzzles of varying complexity, with a success rate of 98%.
